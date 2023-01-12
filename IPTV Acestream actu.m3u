@@ -244,6 +244,9 @@ acestream://95d9967309d74d3dbd87c66cf374666bb9da9f07
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa 720", Supercopa 720
 acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa HD", Supercopa HD
+acestream://e9bc4bcd896339174c25ca95d4828af39f1f7706
+
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
