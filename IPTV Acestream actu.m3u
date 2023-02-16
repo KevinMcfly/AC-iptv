@@ -268,6 +268,9 @@ acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M.Deportes 6 1080", M.Deportes 6 1080
 acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="DEPORTES" tvg-id="Tenis Live", Tenis Live
+acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
+
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="SUPERCOPA" tvg-id="Supercopa Multi 1080", Supercopa Multi 1080
 acestream://8b2c2ef8925b1c659ccd3922390617a98d9ee6e1
