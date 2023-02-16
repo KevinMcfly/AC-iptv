@@ -243,7 +243,7 @@ acestream://1337384461e30979b22c63ca0c9e2804fb3e1091
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="RALLY" tvg-id="FS2", FS2
 acestream://bcfed416bb9e58d28b3099bd66885f7754418a9b
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_1.png" group-title="RALLY" tvg-id="FS1", FS1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg-id="FS1", FS1
 acestream://dfaf86b9a2df692aaaf28e4c3b1d78303f467cda
 
 
